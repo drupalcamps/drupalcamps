@@ -4,4 +4,4 @@ This goal of this project is to become a centralized and definitive resource for
 
 ##Organizers
 Help us collect some baseline statistics about your DrupalCamp.
-[http://goo.gl/forms/8Uio24Eg4m]
+http://goo.gl/forms/8Uio24Eg4m
